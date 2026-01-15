@@ -16,17 +16,6 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
   
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" width="40"/>
-  <img src="https://img.shields.io/badge/REST-API-blue" height="30"/>
-  <img src="https://img.shields.io/badge/JWT-Security-orange" height="30"/>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="40"/>
-  
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/HuggingFace-AI-orange" height="30"/>
-  <img src="https://img.shields.io/badge/Google-GenerativeAI-blue" height="30"/>
-  <img src="https://img.shields.io/badge/Multi-Agent-Systems-green" height="30"/>
-  <img src="https://img.shields.io/badge/NLP-NaturalLanguageProcessing-lightgrey" height="30"/>
   
   <!-- Cloud & Tools -->
   <img src="https://skillicons.dev/icons?i=aws,git" width="40"/>
