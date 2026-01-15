@@ -9,20 +9,8 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,csharp" width="40"/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" width="40"/>
-  
-  <!-- Cloud & Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,git" width="40"/>
-  
-  <!-- Game Engine -->
-  <img src="https://skillicons.dev/icons?i=unity" width="40"/>
-</p>
+### 🚀 Skills
+![My Skills](https://skillicons.dev/icons?i=python,js,csharp,nodejs,express,dotnet,mongodb,mysql,aws,git,unity&theme=light)
 
 
 
