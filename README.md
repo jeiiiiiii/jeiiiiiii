@@ -15,7 +15,7 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 - **Backend:** Node.js, Express.js, ASP.NET MVC, REST APIs, JWT  
 - **Databases:** MongoDB, MySQL  
 - **AI / ML:** HuggingFace Models, Google Generative AI, Multi-Agent Systems, NLP  
-- **Cloud & Tools:** AWS (S3, Lightsail), Unity, Git
+- **Cloud & Tools:** AWS (S3, Lightsail) Git
 - **Game Engine:** Unity
 
 ---
