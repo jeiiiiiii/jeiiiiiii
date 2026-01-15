@@ -10,6 +10,8 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 ---
 
 ## 🛠 Skills
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,aws,python,unity&theme=light)
+
 
 - **Languages:** Python, JavaScript, C#  
 - **Backend:** Node.js, Express.js, ASP.NET MVC, REST APIs, JWT  
