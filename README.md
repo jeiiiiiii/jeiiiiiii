@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jeiren Mondejar
 
 🎓 BSIT Undergraduate at the Polytechnic University of the Philippines  
-🤖 AI Engineer Intern Aspirant | Backend Developer | Cloud Computing  
+🤖 Agentic AI | Backend Developer | Cloud Computing  
 
 I am an entry-level programmer with hands-on experience in **AI-driven systems**, **multi-agent architectures**, and **backend development**. I build practical AI solutions that combine **natural language processing**, **data pipelines**, and **scalable APIs**, with a strong interest in **Agentic AI** and applied machine learning.
 
