@@ -10,35 +10,31 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 ---
 
 ### 🛠️ Skills & Tools
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,csharp" width="40"/>
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" width="40"/>
+  <img src="https://img.shields.io/badge/REST-API-blue" height="30"/>
+  <img src="https://img.shields.io/badge/JWT-Security-orange" height="30"/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="40"/>
+  
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/HuggingFace-AI-orange" height="30"/>
+  <img src="https://img.shields.io/badge/Google-GenerativeAI-blue" height="30"/>
+  <img src="https://img.shields.io/badge/Multi-Agent-Systems-green" height="30"/>
+  <img src="https://img.shields.io/badge/NLP-NaturalLanguageProcessing-lightgrey" height="30"/>
+  
+  <!-- Cloud & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,git" width="40"/>
+  
+  <!-- Game Engine -->
+  <img src="https://skillicons.dev/icons?i=unity" width="40"/>
+</p>
 
-#### Languages
-![Python](https://skillicons.dev/icons?i=python) 
-![JavaScript](https://skillicons.dev/icons?i=js) 
-![C#](https://skillicons.dev/icons?i=csharp)
-
-#### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express) 
-![.NET](https://skillicons.dev/icons?i=dotnet) 
-![REST API](https://img.shields.io/badge/REST-API-blue) 
-![JWT](https://img.shields.io/badge/JWT-Security-orange)
-
-#### Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-#### AI / ML
-![HuggingFace](https://img.shields.io/badge/HuggingFace-AI-orange) 
-![Google AI](https://img.shields.io/badge/Google-GenerativeAI-blue) 
-![Multi-Agent](https://img.shields.io/badge/Multi-Agent-Systems-green) 
-![NLP](https://img.shields.io/badge/NLP-NaturalLanguageProcessing-lightgrey)
-
-#### Cloud & Tools
-![AWS](https://skillicons.dev/icons?i=aws) 
-![Git](https://skillicons.dev/icons?i=git)
-
-#### Game Engine
-![Unity](https://skillicons.dev/icons?i=unity)
 
 
 ## 📫 Connect
