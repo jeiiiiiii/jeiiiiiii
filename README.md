@@ -10,7 +10,9 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 ---
 
 ### 🚀 Skills
-![My Skills](https://skillicons.dev/icons?i=python,js,csharp,nodejs,express,dotnet,mongodb,mysql,aws,git,unity&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,express,dotnet,mongodb,mysql,aws,git,unity&theme=light)
+<img src="https://img.shields.io/badge/C%23-Programming-blue?style=flat-square" height="30"/>
+
 
 
 
