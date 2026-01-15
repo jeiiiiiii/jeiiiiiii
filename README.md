@@ -16,7 +16,7 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 - **Databases:** MongoDB, MySQL  
 - **AI / ML:** HuggingFace Models, Google Generative AI, Multi-Agent Systems, NLP  
 - **Cloud & Tools:** AWS (S3, Lightsail), Unity, Git
-  **Game Engine** Unity
+- **Game Engine** Unity
 
 ---
 
