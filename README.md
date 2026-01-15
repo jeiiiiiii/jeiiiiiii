@@ -9,18 +9,37 @@ Former **Subject Matter Expert** and **Co-Head of Cloud Computing and Infrastruc
 
 ---
 
-## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,aws,python,unity&theme=light)
+### 🛠️ Skills & Tools
 
+#### Languages
+![Python](https://skillicons.dev/icons?i=python) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![C#](https://skillicons.dev/icons?i=csharp)
 
-- **Languages:** Python, JavaScript, C#  
-- **Backend:** Node.js, Express.js, ASP.NET MVC, REST APIs, JWT  
-- **Databases:** MongoDB, MySQL  
-- **AI / ML:** HuggingFace Models, Google Generative AI, Multi-Agent Systems, NLP  
-- **Cloud & Tools:** AWS (S3, Lightsail) Git
-- **Game Engine:** Unity
+#### Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![.NET](https://skillicons.dev/icons?i=dotnet) 
+![REST API](https://img.shields.io/badge/REST-API-blue) 
+![JWT](https://img.shields.io/badge/JWT-Security-orange)
 
----
+#### Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+#### AI / ML
+![HuggingFace](https://img.shields.io/badge/HuggingFace-AI-orange) 
+![Google AI](https://img.shields.io/badge/Google-GenerativeAI-blue) 
+![Multi-Agent](https://img.shields.io/badge/Multi-Agent-Systems-green) 
+![NLP](https://img.shields.io/badge/NLP-NaturalLanguageProcessing-lightgrey)
+
+#### Cloud & Tools
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Git](https://skillicons.dev/icons?i=git)
+
+#### Game Engine
+![Unity](https://skillicons.dev/icons?i=unity)
+
 
 ## 📫 Connect
 
